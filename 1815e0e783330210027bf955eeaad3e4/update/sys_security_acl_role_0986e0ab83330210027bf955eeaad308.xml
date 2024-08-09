@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-09 14:10:09</sys_created_on>
+        <sys_id>0986e0ab83330210027bf955eeaad308</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1477763_te_ooo_user_working_schedule.x_1477763_te_ooo.user_working_schedule_user</sys_name>
+        <sys_package display_value="TE OOO" source="x_1477763_te_ooo">1815e0e783330210027bf955eeaad3e4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TE OOO">1815e0e783330210027bf955eeaad3e4</sys_scope>
+        <sys_security_acl display_value="x_1477763_te_ooo_user_working_schedule">0186e0ab83330210027bf955eeaad305</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0986e0ab83330210027bf955eeaad308</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-09 14:10:09</sys_updated_on>
+        <sys_user_role display_value="x_1477763_te_ooo.user_working_schedule_user" name="x_1477763_te_ooo.user_working_schedule_user">ac86e42b83330210027bf955eeaad371</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

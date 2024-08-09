@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c0292c6f83330210027bf955eeaad36e" label="User Leave Schedule" max_length="40" name="x_1477763_te_ooo_user_leave_schedule" type="collection">
+        <element display="true" label="End Time" mandatory="true" max_length="40" name="end_time" type="glide_date_time"/>
+        <element label="Start time" mandatory="true" max_length="40" name="start_time" type="glide_date_time"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="90d1921e5f510100a9ad2572f2b477fe" label="User name" mandatory="true" max_length="32" name="user_name" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="user_name"/>
+        </index>
+    </element>
+</database>
